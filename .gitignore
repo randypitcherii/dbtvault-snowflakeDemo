@@ -8,3 +8,5 @@ target/
 dbt_modules
 
 venv
+
+logs
